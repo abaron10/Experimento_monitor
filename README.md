@@ -1,28 +1,3 @@
-# Experimento 2 Detención DDos Attack y renderizado hoja de paciente
-1. En el puerto 5000 ejecutamos el servidor de pacientes 
-
-![image](https://user-images.githubusercontent.com/64280930/135738589-9d34e5f1-5952-4763-b414-4e2b4a82be43.png)
-
-2. Creamos el registro usando  Postman, este perfil de usuario con las siguientes credenciales: 
-
-![image](https://user-images.githubusercontent.com/64280930/135738623-02804db1-1113-430d-8ea0-4a61321179e0.png)
-
-3. El usuario es creado exitosamente con su respectivo token de acceso 
-![image](https://user-images.githubusercontent.com/64280930/135738664-9b9946ff-3412-40d9-bffe-0f438e8c4909.png)
-
-4. El acceso es concedido para el usuario Miguel: 
-Con ID: 2   Y su respectivo token 
-![image](https://user-images.githubusercontent.com/64280930/135738689-49e101a2-a1f2-4a48-9c63-f75f5a3ec84e.png)
-
-5. Con la ayuda de Postman accedemos con este ID:2 a la información médica. 
-![image](https://user-images.githubusercontent.com/64280930/135738778-9b4b4196-1e85-4b94-a3ff-5981450e903c.png)
-
-
-6. Validación de la historia medica del paciente
-![image](https://user-images.githubusercontent.com/64280930/135738766-cf231a11-1365-4abe-9f19-cb4c31295591.png)
-
-7. Correr ataque 
-![image](https://user-images.githubusercontent.com/64280930/135738756-80e86bc2-d6b6-483a-8189-e140d0132d93.png)
 
 
 # Experimento Voting/Leader election asociado a clínica ABC
